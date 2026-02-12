@@ -83,16 +83,13 @@ from **data extraction (SQL)** → **analysis (Python)** → **visualization (Po
 
 ## 📌 Featured Projects
 
-<p>
-  <a href="https://github.com/lucasalamanni/A.S.I.S" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=A.S.I.S" />
+<p align="center">
+  <a href="https://github.com/lucasalamanni/ASIS" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=ASIS" />
   </a>
   <a href="https://github.com/lucasalamanni/Centros-Barriales" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=Centros-Barriales" />
   </a>
-</p>
-
-<p>
   <a href="https://github.com/lucasalamanni/Covid-America-Latina" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=Covid-America-Latina" />
   </a>
@@ -100,17 +97,13 @@ from **data extraction (SQL)** → **analysis (Python)** → **visualization (Po
 
 ---
 
-
----
-
 ## 📫 Contact
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/lucas-alamanni-23202b214/" target="_blank">lucas-alamanni</a>
-- 📩 Email: **(lucas.m.alamanni@gmail.com)**
+- 📩 Email: **lucas.m.alamanni@gmail.com**
 
 ---
 
 <p align="center">
   <i>⭐ If you like what I do, feel free to connect with me on LinkedIn!</i>
 </p>
-
