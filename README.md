@@ -84,30 +84,22 @@ from **data extraction (SQL)** → **analysis (Python)** → **visualization (Po
 ## 📌 Featured Projects
 
 <p>
-  <a href="https://github.com/lucasalamanni?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=REPO_1" />
+  <a href="https://github.com/lucasalamanni/A.S.I.S" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=A.S.I.S" />
   </a>
-  <a href="https://github.com/lucasalamanni?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=REPO_2" />
+  <a href="https://github.com/lucasalamanni/Centros-Barriales" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=Centros-Barriales" />
   </a>
 </p>
 
 <p>
-  <a href="https://github.com/lucasalamanni?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=REPO_3" />
+  <a href="https://github.com/lucasalamanni/Covid-America-Latina" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=Covid-America-Latina" />
   </a>
 </p>
 
-> ⚠️ Replace `REPO_1`, `REPO_2`, `REPO_3` with your real repository names.
-
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucasalamanni&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasalamanni&layout=compact&hide_border=true" />
-</p>
 
 ---
 
