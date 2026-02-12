@@ -114,7 +114,7 @@ from **data extraction (SQL)** → **analysis (Python)** → **visualization (Po
 ## 📫 Contact
 
 - 💼 LinkedIn: <a href="https://www.linkedin.com/in/lucas-alamanni-23202b214/" target="_blank">lucas-alamanni</a>
-- 📩 Email: **(poné tu email acá si querés)**
+- 📩 Email: **(lucas.m.alamanni@gmail.com)**
 
 ---
 
