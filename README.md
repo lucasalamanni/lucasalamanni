@@ -84,16 +84,17 @@ from **data extraction (SQL)** → **analysis (Python)** → **visualization (Po
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/lucasalamanni/ASIS" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=ASIS" />
+  <a href="https://github.com/lucasalamanni/ASIS" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/ASIS-View%20Project-blue?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/lucasalamanni/Centros-Barriales" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=Centros-Barriales" />
+  <a href="https://github.com/lucasalamanni/Centros-Barriales" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Centros--Barriales-View%20Project-green?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/lucasalamanni/Covid-America-Latina" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucasalamanni&repo=Covid-America-Latina" />
+  <a href="https://github.com/lucasalamanni/Covid-America-Latina" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Covid--America--Latina-View%20Project-red?style=for-the-badge&logo=github" />
   </a>
 </p>
+
 
 ---
 
